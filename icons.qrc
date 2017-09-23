@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/document-new.png</file>
+        <file>icons/document-open.png</file>
+        <file>icons/document-save.png</file>
+        <file>icons/document-save-as.png</file>
+        <file>icons/editcopy.png</file>
+        <file>icons/editcut.png</file>
+        <file>icons/edit-find.png</file>
+        <file>icons/editpaste.png</file>
+        <file>icons/edit-undo.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/help.png</file>
+        <file>icons/document-new_copy.png</file>
+        <file>icons/arrow_green_right_13px_5840_easyicon.net.png</file>
+        <file>icons/Compile_16px_521463_easyicon.net.png</file>
+        <file>icons/Compile_Run_16px_521469_easyicon.net.png</file>
+    </qresource>
+</RCC>

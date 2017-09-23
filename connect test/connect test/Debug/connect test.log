@@ -1,0 +1,13 @@
+﻿  源.cpp
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(622): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(645): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(662): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(711): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(737): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(747): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(776): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(816): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(1898): warning C4101: “ch”: 未引用的局部变量
+c:\users\tony\documents\visual studio 2015\projects\connect test\connect test\源.cpp(873): warning C4715: “next”: 不是所有的控件路径都返回值
+  connect test.vcxproj -> C:\Users\Tony\documents\visual studio 2015\Projects\connect test\Debug\connect test.exe
+  connect test.vcxproj -> C:\Users\Tony\documents\visual studio 2015\Projects\connect test\Debug\connect test.pdb (Full PDB)
